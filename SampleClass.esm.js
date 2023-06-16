@@ -1,6 +1,6 @@
 /**
  * SampleClass
- * v0.23.06.16
+ * 2023-06-16T19:00:54.014Z
  * (c) Vanilla Components
  */
 
